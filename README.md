@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Simple one page website using React and Tailwind
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1439" alt="Screenshot 2022-08-25 at 7 10 17 PM" src="https://user-images.githubusercontent.com/13516588/186687998-507edb5e-c522-4f38-bf4a-b611cc35ba45.png">
+<img width="348" alt="Screenshot 2022-08-25 at 7 10 31 PM" src="https://user-images.githubusercontent.com/13516588/186688018-0556f8f5-7c28-4e46-b8f9-40ff850c8062.png">
 
 ## Available Scripts
 
